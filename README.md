@@ -1,4 +1,4 @@
-This report shows how fonts can be classified by its features which are the gray scale value
+This report shows how fonts can be classified by their features which are the gray scale value
 extracted from a 20 x 20 pixels image. Thus, each case will have 400 features. The 
 interested data is downloaded from “University of California Irvine Repository of Machine 
 Learning Datasets”. There are 153 .csv files and each file contain a bunch of cases with 
